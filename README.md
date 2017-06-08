@@ -22,5 +22,5 @@ The new and improved Gizmo will check your spelling.
 
 # You have to open this file with the Adobe Acrobat reader (not your browser).
 
-[<img src="gizmo_special_character_pdf.jpg" target="_blank">](https://www.google.com/partners/#i_profile;idtf=109020333178045359296)
+[<img src="gizmo_special_character_pdf.jpg" target="_blank">](special-character-gizmo/special_character_gizmo_v1.pdf?download)
 
