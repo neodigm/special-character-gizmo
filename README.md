@@ -1,11 +1,4 @@
-# special-character-gizmo
-A simple PDF that locates special characters (Adobe Flex Solution)
-
-You have to open this file with the Adobe Acrobat reader (not your browser).
-
-#The Special Character Gizmo is a free, fast and easy way to protect yourself
-from hidden special characters.
-
+# The Special Character Gizmo is a free, fast and easy way to protect yourself from hidden special characters.
 
 Do you routinely paste text from documents and websites?
 Does Microsoft Office add strange characters into your text?
@@ -27,4 +20,5 @@ Just click Gizmo to the right. It's instant and easy. No software to install.
 
 The new and improved Gizmo will check your spelling.
 
+# You have to open this file with the Adobe Acrobat reader (not your browser).
 
