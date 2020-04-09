@@ -24,3 +24,12 @@ The new and improved Gizmo will check your spelling.
 
 [<img src="gizmo_special_character_pdf.jpg" target="_blank">](https://github.com/neodigm/special-character-gizmo/raw/gh-pages/special_character_gizmo_v1.pdf)
 
+[Portfolio](https://www.theScottKrause.com) |
+[Github](https://github.com/neodigm) |
+[LinkedIn](https://www.linkedin.com/in/neodigm24/) |
+[Salesforce](https://trailblazer.me/id/skrause) |
+[Code Pen](https://codepen.io/neodigm24) |
+[Machvive](https://machvive.com/) |
+[Arcanus 55](https://www.arcanus55.com/) |
+[Repl](https://repl.it/@neodigm) |
+[Twitter](https://twitter.com/neodigm24)

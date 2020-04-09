@@ -14,6 +14,11 @@
       "name": "Scott Krause",
       "url": "https://www.theScottKrause.com",
 	    "sameAs" : [ "https://github.com/neodigm",
+	    "https://www.linkedin.com/in/neodigm24/",
+	    "https://trailblazer.me/id/skrause",
+	    "https://codepen.io/neodigm24",
+	    "https://machvive.com/",
+	    "https://www.arcanus55.com/",
       "https://repl.it/@neodigm",
       "https://twitter.com/neodigm24"]
     }
