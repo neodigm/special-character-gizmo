@@ -1,4 +1,4 @@
-# The [Special Character Gizmo][https://neodigm.github.io/special-character-gizmo//gizmo_special_character_pdf.jpg] is a free, fast and easy way to protect yourself from hidden special characters.
+# The [Special Character Gizmo](https://neodigm.github.io/special-character-gizmo//gizmo_special_character_pdf.jpg) is a free, fast and easy way to protect yourself from hidden special characters.
 
 Do you routinely paste text from documents and websites?
 Does Microsoft Office add strange characters into your text?
