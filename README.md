@@ -26,6 +26,7 @@ The new and improved Gizmo will check your spelling.
 [<img src="gizmo_special_character_pdf.jpg" target="_blank">](https://github.com/neodigm/special-character-gizmo/raw/gh-pages/special_character_gizmo_v1.pdf)
 
 [Portfolio](https://www.theScottKrause.com) |
+[Blog](https://www.theScottKrause.com/WebAssembly) |
 [Github](https://github.com/neodigm) |
 [LinkedIn](https://www.linkedin.com/in/neodigm24/) |
 [Salesforce](https://trailblazer.me/id/skrause) |
