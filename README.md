@@ -25,6 +25,7 @@ The new and improved Gizmo will check your spelling.
 
 [<img src="gizmo_special_character_pdf.jpg" target="_blank">](https://github.com/neodigm/special-character-gizmo/raw/gh-pages/special_character_gizmo_v1.pdf)
 
+#
 [Portfolio Blog](https://www.theScottKrause.com) |
 [NPM](https://www.npmjs.com/~neodigm) |
 [Github](https://github.com/neodigm) |
@@ -34,4 +35,6 @@ The new and improved Gizmo will check your spelling.
 [Machvive](https://machvive.com/) |
 [Arcanus 55](https://www.arcanus55.com/) |
 [Repl](https://repl.it/@neodigm) |
-[Twitter](https://twitter.com/neodigm24)
+[Twitter](https://twitter.com/neodigm24) |
+[Keybase](https://keybase.io/neodigm)
+#
