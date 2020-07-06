@@ -24,7 +24,7 @@ The new and improved Gizmo will check your spelling.
 # You have to open this file with the Adobe Acrobat reader (not your browser).
 
 [<img src="gizmo_special_character_pdf.jpg" target="_blank">](https://github.com/neodigm/special-character-gizmo/raw/gh-pages/special_character_gizmo_v1.pdf)
-
+---
 #
 [Portfolio Blog](https://www.theScottKrause.com) |
 [🚀 Résumé](https://thescottkrause.com/Aardvark_Scott_C_Krause_2020.pdf) |
