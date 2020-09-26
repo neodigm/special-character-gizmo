@@ -27,7 +27,7 @@ The new and improved Gizmo will check your spelling.
 ---
 #
 [Portfolio Blog](https://www.theScottKrause.com) |
-[🚀 Résumé](https://thescottkrause.com/Aardvark_Scott_C_Krause_2020.pdf) |
+[🚀 Résumé](https://thescottkrause.com/Arcanus_Scott_C_Krause_2020.pdf) |
 [NPM](https://www.npmjs.com/~neodigm) |
 [Github](https://github.com/neodigm) |
 [LinkedIn](https://www.linkedin.com/in/neodigm24/) |
