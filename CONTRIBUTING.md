@@ -32,7 +32,7 @@ All types of contributions are encouraged and valued. See the [Table of Contents
 
 Before you ask a question, it is best to search for existing [Issues](https://github.com/neodigm/vivid_vector_alphabet/issues) that might help you. In case you have found a suitable issue and still need clarification, you can write your question in this issue. It is also advisable to search the internet for answers first.
 
-If you then still feel the need to ask a question and need clarification, we recommend the following:
+If you then still feel the need to ask a question and want clarification, we recommend the following:
 
 - Open an [Issue](https://github.com/neodigm/vivid_vector_alphabet/issues/new).
 - Provide as much context as you can about what you're running into.
