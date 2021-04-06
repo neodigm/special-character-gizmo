@@ -7,7 +7,7 @@ Never worry about accidentally pasting hidden characters again.
 
 A special character is a symbol that is not a letter, a number or punctuation and may
 not be visible. There are many ways in which special characters can be cut and
-pasted into your text. If you cut and paste directly from a webpage or from a
+pasted into your text. If you cut and paste directly from a [webpage](https://thescottkrause.com/tags/curated/) or from a
 Microsoft Office document you may encounter special characters. Microsoft Word in
 particular will substitute and insert single quotes, copyright symbols, tabs and even
 smiley faces. Note: Special characters are sometimes called white-space or escape
