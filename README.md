@@ -21,7 +21,7 @@ Just click Gizmo to the right. It's instant and easy. No software to install.
 
 The new and improved Gizmo will check your spelling (in Adobe Flex [ActionScript 3.0](https://gist.github.com/neodigm/3f74b31c1a12a92c08c3d90ce403998e)).
 
-# You have to open this file with the Adobe Acrobat reader (not your browser).
+# Open this file with the Adobe Acrobat reader (not your browser).
 
 [<img src="gizmo_special_character_pdf.jpg" target="_blank">](https://github.com/neodigm/special-character-gizmo/raw/gh-pages/special_character_gizmo_v1.pdf)
 ---
