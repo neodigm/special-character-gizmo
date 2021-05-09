@@ -25,6 +25,8 @@ The new and improved Gizmo will check your spelling (in Adobe Flex [ActionScript
 
 [<img src="gizmo_special_character_pdf.jpg" target="_blank">](https://github.com/neodigm/special-character-gizmo/raw/gh-pages/special_character_gizmo_v1.pdf)
 ---
+Three.js 🚀 TypeScript 🍭 WASM ✨ Go
+
 #
 [Portfolio Blog](https://www.theScottKrause.com) |
 [🚀 Résumé](https://www.thescottkrause.com/Arcanus_Scott_C_Krause_2020.pdf) |
