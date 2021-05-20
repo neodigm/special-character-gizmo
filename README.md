@@ -36,7 +36,7 @@ DataVis 🚀 Micro Frontend 🚀 PWA
 [Gists](https://gist.github.com/neodigm?direction=asc&sort=created) |
 [Salesforce](https://trailblazer.me/id/skrause) |
 [Code Pen](https://codepen.io/neodigm24) |
-[Machvive](https://machvive.com/) |
+[Machvive](https://www.machvive.com/) |
 [Arcanus 55](https://www.arcanus55.com/) |
 [Repl](https://repl.it/@neodigm) |
 [Twitter](https://twitter.com/neodigm24) |
