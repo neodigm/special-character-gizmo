@@ -45,3 +45,9 @@ DataVis 🚀 Micro Frontend 🚀 PWA
 [W3C](https://www.w3.org/users/123844) |
 [InfoSec](https://arcanus55.medium.com/offline-vs-cloud-password-managers-51b1fbebe301)
 #
+
+<p align="center">
+	<a target="_blank" href="https://www.thescottkrause.com">
+		<img src="https://neodigm.github.io/pan-fried-monkey-fisticuffs/thescottkrause_contact_card.png" title="Three.js 🚀 TypeScript 🍭 WASM ✨ Go">
+	</a>
+</p>
