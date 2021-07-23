@@ -43,8 +43,9 @@ DataVis 🚀 Micro Frontend 🚀 PWA
 [Keybase](https://keybase.io/neodigm) |
 [Docker](https://hub.docker.com/u/neodigm) |
 [W3C](https://www.w3.org/users/123844) |
-[InfoSec](https://arcanus55.medium.com/offline-vs-cloud-password-managers-51b1fbebe301)
+[InfoSec](https://www.arcanus55.medium.com/offline-vs-cloud-password-managers-51b1fbebe301)
 #
+
 [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/neodigm/vue_voyagers)
 
 <p align="center">
