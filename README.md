@@ -1,4 +1,4 @@
-[![License: BSD](https://badgen.net/badge/license/BSD/orange)](https://opensource.org/licenses/BSD-3-Clause)
+
 # The [Special Character Gizmo](https://neodigm.github.io/special-character-gizmo//gizmo_special_character_pdf.jpg) is a free, fast and easy way to protect yourself from hidden special characters.
 
 Do you routinely paste text from documents and websites?
@@ -29,7 +29,7 @@ DataVis 🚀 Micro Frontend 🚀 PWA
 
 #
 [Portfolio Blog](https://www.theScottKrause.com) |
-[🚀 Résumé](https://www.thescottkrause.com/Arcanus_Scott_C_Krause_2021.pdf) |
+[🚀 Résumé](https://www.thescottkrause.com/Arcanus_Scott_C_Krause_2022.pdf) |
 [NPM](https://www.npmjs.com/~neodigm) |
 [Github](https://github.com/neodigm) |
 [LinkedIn](https://www.linkedin.com/in/neodigm55/) |
