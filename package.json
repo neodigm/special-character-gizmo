@@ -1,7 +1,7 @@
 {
   "name": "scott_c_krause_neodigm",
   "version": "5.5.5",
-  "description": "UX artisan ⚡ illustrator ⚡ front-end engineer 🚀 JavaScript && TypeScript && Go 🪐 Shopify PWA Polaris Liquid GraphQL 🍭 AI Agents Chat UX PWA SolidJS Lit ThreeJS Vue ✨HTMX Rust WASM",
+  "description": "UX artisan ⚡ illustrator ⚡ front-end engineer 🚀 JavaScript && TypeScript && Go 🪐 Shopify PWA Polaris Liquid GraphQL 🍭 AI Agents Chat UX PWA SolidJS Lit ThreeJS Vue ✨HTMX Rust WASM DataVis 👁️ UX 🍭 PWA 👁️ ThreeJS ✨ RUST WASM  🚀 SSE 🌶️ htmx",
   "main": "vue_threejs_wasm.js",
   "scripts": {
     "test": "e2e.js"
@@ -25,7 +25,8 @@
   "author": "Scott C. Krause",
   "license": "ISC",
   "dependencies": {
-    "@machfivetechchicago/machvive-webmcp-ai": "^5.7.0",
+    "@machfivetechchicago/machvive-chat-syncopation-ai": "^0.3.0",
+    "@machfivetechchicago/machvive-webmcp-ai": "^6.7.1"
     "@angular/common": "^10.1.6",
     "@angular/compiler": "^10.1.6",
     "@angular/core": "^11.0.5",
